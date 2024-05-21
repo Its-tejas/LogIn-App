@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Login App (SPACE)</string>
+    <string name="default_web_client_id">41310009792-fpr0g57eaa62sguaqb76nbudh4fmhuup.apps.googleusercontent.com</string>
+</resources>

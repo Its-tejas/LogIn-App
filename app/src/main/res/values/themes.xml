@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.LoginAppSPACE" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/dark_orange_bg</item>
+        <item name="android:navigationBarColor">@color/white</item>
+
+    </style>
+
+    <style name="Theme.LoginAppSPACE" parent="Base.Theme.LoginAppSPACE" />
+</resources>
